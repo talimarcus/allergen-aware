@@ -1,0 +1,133 @@
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\App.baml
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\App.g.cs
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware_Content.g.cs
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware_MarkupCompile.cache
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\bin\Debug\Resources\icon.png
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\bin\Debug\AllergenAware.xml
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\bin\Debug\AllergenAware.exe
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\bin\Debug\AllergenAware.pdb
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\SurfaceWindow1.baml
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.g.resources
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.Properties.Resources.resources
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.exe
+C:\Users\hcilablaptop\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\bin\Debug\Resources\icon.png
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\bin\Debug\AllergenAware.xml
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\bin\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\bin\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.csprojResolveAssemblyReference.cache
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\SurfaceWindow1.baml
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\App.baml
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\App.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware_Content.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware_MarkupCompile.cache
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.g.resources
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.Properties.Resources.resources
+C:\Users\tmarcus\Desktop\AllergenAware\AllergenAware\obj\Debug\AllergenAware.csproj.GenerateResource.Cache
+E:\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware.exe
+E:\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\bin\Debug\Resources\icon.png
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\bin\Debug\AllergenAware.xml
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\bin\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\bin\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware.csprojResolveAssemblyReference.cache
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\SurfaceWindow1.baml
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\App.baml
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\App.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware_Content.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware_MarkupCompile.cache
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware.g.resources
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware.Properties.Resources.resources
+C:\Users\tmarcus\Desktop\AllergenAware Dec_1\AllergenAware\obj\Debug\AllergenAware.csproj.GenerateResource.Cache
+F:\AllergenAware-recent\AllergenAware\obj\Debug\AllergenAware.exe
+F:\AllergenAware-recent\AllergenAware\obj\Debug\AllergenAware.pdb
+F:\AllergenAware-recent\AllergenAware\bin\Debug\Resources\icon.png
+F:\AllergenAware-recent\AllergenAware\bin\Debug\AllergenAware.xml
+F:\AllergenAware-recent\AllergenAware\bin\Debug\AllergenAware.exe
+F:\AllergenAware-recent\AllergenAware\bin\Debug\AllergenAware.pdb
+F:\AllergenAware-recent\AllergenAware\obj\Debug\AllergenAware.csprojResolveAssemblyReference.cache
+F:\AllergenAware-recent\AllergenAware\obj\Debug\SurfaceWindow1.baml
+F:\AllergenAware-recent\AllergenAware\obj\Debug\App.baml
+F:\AllergenAware-recent\AllergenAware\obj\Debug\SurfaceWindow1.g.cs
+F:\AllergenAware-recent\AllergenAware\obj\Debug\App.g.cs
+F:\AllergenAware-recent\AllergenAware\obj\Debug\AllergenAware_Content.g.cs
+F:\AllergenAware-recent\AllergenAware\obj\Debug\AllergenAware_MarkupCompile.cache
+F:\AllergenAware-recent\AllergenAware\obj\Debug\AllergenAware.g.resources
+F:\AllergenAware-recent\AllergenAware\obj\Debug\AllergenAware.Properties.Resources.resources
+F:\AllergenAware-recent\AllergenAware\obj\Debug\AllergenAware.csproj.GenerateResource.Cache
+F:\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware.exe
+F:\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\bin\Debug\Resources\icon.png
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\bin\Debug\AllergenAware.xml
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\bin\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\bin\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware.csprojResolveAssemblyReference.cache
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\SurfaceWindow1.baml
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\App.baml
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\App.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware_Content.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware_MarkupCompile.cache
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware.g.resources
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware.Properties.Resources.resources
+C:\Users\tmarcus\Desktop\AllergenAware-recent-Dec3\AllergenAware\obj\Debug\AllergenAware.csproj.GenerateResource.Cache
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\bin\Debug\Resources\icon.png
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\bin\Debug\AllergenAware.xml
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\bin\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\bin\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\AllergenAware.csprojResolveAssemblyReference.cache
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\SurfaceWindow1.baml
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\App.baml
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\App.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\AllergenAware_Content.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\AllergenAware_MarkupCompile.cache
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\AllergenAware.g.resources
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\AllergenAware.Properties.Resources.resources
+C:\Users\tmarcus\Desktop\AllergenAware-mostrecent\AllergenAware\obj\Debug\AllergenAware.csproj.GenerateResource.Cache
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\bin\Debug\Resources\icon.png
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\bin\Debug\AllergenAware.xml
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\bin\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\bin\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\AllergenAware.csprojResolveAssemblyReference.cache
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\SurfaceWindow1.baml
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\App.baml
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\App.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\AllergenAware_Content.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\AllergenAware_MarkupCompile.cache
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\AllergenAware.g.resources
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\AllergenAware.Properties.Resources.resources
+C:\Users\tmarcus\Desktop\AllergenAware-Dec4\AllergenAware\obj\Debug\AllergenAware.csproj.GenerateResource.Cache
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\bin\Debug\Resources\icon.png
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\bin\Debug\AllergenAware.xml
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\bin\Debug\AllergenAware.exe
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\bin\Debug\AllergenAware.pdb
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\AllergenAware.csprojResolveAssemblyReference.cache
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\SurfaceWindow1.baml
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\App.baml
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\App.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\AllergenAware_Content.g.cs
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\AllergenAware_MarkupCompile.cache
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\AllergenAware.g.resources
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\AllergenAware.Properties.Resources.resources
+C:\Users\tmarcus\Desktop\AllergenAware-DEMO\AllergenAware\obj\Debug\AllergenAware.csproj.GenerateResource.Cache
